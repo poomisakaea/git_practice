@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, sans-serif; /* กำหนดฟอนต์ของเนื้อหา */
+    text-align: center; /* จัดตำแหน่งข้อความให้อยู่ตรงกลาง */
+    background-color: black; /* กำหนดสีพื้นหลัง */
+    color: white; /* กำหนดสีข้อความ */
+}
+
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+.footer {
+    text-align: right;
+} 
